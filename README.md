@@ -4,7 +4,6 @@
 
 This project performs basic DNA sequence analysis on a fungal genome sequence stored in a FASTA file. Using Python and BioPython, the script reads the DNA sequence, calculates nucleotide composition, determines GC content, searches for user-defined DNA motifs, and visualizes nucleotide frequencies with a bar chart.
 
-This project is suitable for beginners learning bioinformatics, computational biology, and biological sequence analysis.
 
 ---
 
